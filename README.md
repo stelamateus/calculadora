@@ -1,16 +1,39 @@
+<h1 align="center">Calculadora JavaScript</h1>
+<h1 align="center"><img src="./assets/calculadora.png"></h1>
 
-<h1 align="center">Projeto: Calculadora</h1>
-<p>- Construir uma calculadora básica com os operadores de adição,subtração, multiplicação e divisão. <p/>
+<hr>
 
-<h2> Objetivo:</h2>
-<br>
- <p>- Criar familiaridade com o básico em matemática no JavaScript;</p>
- 
+### 📚 Sobre
 
-<h2>Etapas do projeto<h2>
-<h3>- Criar o HTML da calculadora;</h3>
-<h3>- Estilizar a calculadora com CSS;</h3>
-<H3>- Dar funcionalidade aos botões da calculadora usando Javascript;</H3>
+Pequeno projeto - Calculadora feita para fixação de conteúdo JavaScript.
+
+### 🎨 Detalhe
+
+Foram utilizados diversos componentes tanto de estilização quanto de mecânica no JavaScript.
+
+<hr>
+
+### 🔥 Como contribuir
+
+```
+Fork este respositório
+Faça as mudanças
+Abra um pull request
+```
+
+### 💻 Tecnologias utilizadas
+
+Nesta Calculadora Javascript foram utilizadas as seguintes tecnologias
+
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
+- [JavaScript](https://www.w3schools.com/js/)
+
+### :airplane: Acesse o projeto
+
+Hospedado no Netlify
+
+https://basiccalculator01.netlify.app/
 
 
 
