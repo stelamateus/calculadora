@@ -13,14 +13,6 @@ Foram utilizados diversos componentes tanto de estilização quanto de mecânica
 
 <hr>
 
-### 🔥 Como contribuir
-
-```
-Fork este respositório
-Faça as mudanças
-Abra um pull request
-```
-
 ### 💻 Tecnologias utilizadas
 
 Nesta Calculadora Javascript foram utilizadas as seguintes tecnologias
